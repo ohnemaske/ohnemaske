@@ -6,13 +6,18 @@ description: >-
 
 # Unvollständige Daten
 
-[Zitat BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#1981486371):
+Das Bundesamt für Gesundheit \(BAG\) [schreibt](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#2030838475):
 
-> 9.7.2020, 8 Uhr, bestätigt in der Schweiz und im Fürstentum Liechtenstein:  
-> **Auf das neue Coronavirus positiv getestet:** 32 586 Personen, 88 mehr gegenüber dem Vortag.  
-> **Verstorben:** 1686 Personen
+> ### Bestätigte Coronavirus-Infektionen, Todesfälle, epidemiologische Lage
+>
+> | 13.7.2020, 8 Uhr | Neu | Total |
+> | :--- | :--- | :--- |
+> | Laborbestätigte Infektionen | 63 | 32 946 |
+> | Hospitalisierungen | 3 | 4091 |
+> | Todesfälle | 0 | 1686 |
+> | Covid-19-Test | 2476 | 686 349 |
 
-Für sich genommen ist an diesen Aussagen nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 32586 Infizierte gibt und 1686 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch.**
+Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 32946 Infizierte gibt und 1686 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch.**
 
 ## Fehlerbehaftete Tests
 
@@ -24,5 +29,5 @@ Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) m
 
 ## **Positiver Test** ≠ **Erkrankung**
 
-Auch ein mehrfach bestätigter positiver SARS-CoV2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "auf das Coronavirus positiv getesteter Verstorbener" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
+Auch ein mehrfach bestätigter positiver SARS-CoV2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
 
