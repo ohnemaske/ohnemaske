@@ -12,10 +12,10 @@ Das Bundesamt für Gesundheit \(BAG\) [schreibt](https://www.bag.admin.ch/bag/de
 >
 > | 13.7.2020, 8 Uhr | Neu | Total |
 > | :--- | :--- | :--- |
-> | Laborbestätigte Infektionen | 63 | 32 946 |
+> | Laborbestätigte Infektionen | 63 | 32946 |
 > | Hospitalisierungen | 3 | 4091 |
 > | Todesfälle | 0 | 1686 |
-> | Covid-19-Test | 2476 | 686 349 |
+> | Covid-19-Test | 2476 | 686349 |
 
 Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 32946 Infizierte gibt und 1686 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch.**
 
