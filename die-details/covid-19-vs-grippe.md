@@ -6,7 +6,7 @@ In den folgenden Abschnitten wird die COVID-19 zugerechnete Übersterblichkeit m
 
 ## COVID-19 in 2020
 
-![](../.gitbook/assets/2020%20%281%29.png)
+![](../.gitbook/assets/2020.png)
 
 ## Grippewelle in 2015
 
