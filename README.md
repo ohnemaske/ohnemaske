@@ -4,6 +4,12 @@
 
 Wir protestieren **friedlich** gegen die Maskenpflicht im öffentlichen Verkehr.
 
+{% hint style="info" %}
+Wir protestieren nur gegen die **Pflicht** eine Maske zu tragen. Jeder Fahrgast hat selbstverständlich das **Recht** eine zu tragen \(aus was für Gründen auch immer\).
+{% endhint %}
+
+Mit anderen Worten sollte jeder ÖV Kunde selbst entscheiden können, ob er nun mit oder ohne Maske reisen möchte.
+
 ## Wie?
 
 Wir tragen keine Maske im ÖV. Falls wir aufgefordert werden eine anzuziehen, sagen wir, dass wir aus Protest keine tragen. Aufforderungen das Fahrzeug zu verlassen kommen wir nur dann nach, wenn diese durch gewalt-ermächtigte Organe \(Sicherheitsdienst, Bahnpolizei, Polizei\) erfolgen. Allfällig ausgesprochene Bussen fechten wir gerichtlich an.
