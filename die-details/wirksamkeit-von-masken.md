@@ -14,5 +14,5 @@ Eine im Jahr 2016 durchgeführte Meta- Studie zum Thema medizinische Masken komm
 
 > It should be concluded from these and similar studies that the filter material of face masks does not retain or filter out viruses or other submicron particles.
 
-> It is important to appreciate that if masks contained filters capable of trapping viruses, the peripheral gaps around the masks would continue to permit the inhalation of unfiltered air and aerosols.
+> When this understanding is combined with the poor fit of masks, it is readily appreciated that neither the filter performance nor the facial fit characteristics of face masks qualify them as being devices which protect against respiratory infections.
 
