@@ -12,9 +12,7 @@ Meta-Studien kombinieren die Ergebnisse von vielen Studien zum gleichen Thema un
 
 Eine im Jahr 2016 durchgeführte Meta- Studie zum Thema medizinische Masken kommt zum Schluss, [dass diese gegen Viren wirkungslos sind](https://archive.is/mK9db):
 
-> It is important to appreciate that if masks contained filters capable of trapping viruses, the peripheral gaps around the masks would continue to permit the inhalation of unfiltered air and aerosols.
-
 > It should be concluded from these and similar studies that the filter material of face masks does not retain or filter out viruses or other submicron particles.
 
-
+> It is important to appreciate that if masks contained filters capable of trapping viruses, the peripheral gaps around the masks would continue to permit the inhalation of unfiltered air and aerosols.
 
