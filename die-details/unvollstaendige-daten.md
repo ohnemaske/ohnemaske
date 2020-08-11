@@ -1,23 +1,23 @@
 ---
 description: >-
-  Die meisten zu Corona veröffentlichten Daten sind unvollständig. Deren
-  Interpretation ist irreführend.
+  Die meisten zu Corona veröffentlichten Daten sind unvollständig oder sogar
+  nachweislich falsch. Deren Interpretation ist irreführend.
 ---
 
-# Unvollständige Daten
+# Unvollständige und falsche Daten
 
-Das Bundesamt für Gesundheit \(BAG\) [schreibt](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#2030838475):
+Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#2030838475):
 
-> ### Bestätigte Coronavirus-Infektionen, Todesfälle, epidemiologische Lage
+> ### Epidemiologischen Lage in der Schweiz und im Fürstentum Liechtenstein
 >
-> | 13.7.2020, 8 Uhr | Neu | Total |
-> | :--- | :--- | :--- |
-> | Laborbestätigte Infektionen | 63 | 32946 |
-> | Hospitalisierungen | 3 | 4091 |
-> | Todesfälle | 0 | 1686 |
-> | Covid-19-Test | 2476 | 686349 |
+> | 11.8.2020, 8 Uhr | Neu | Total seit Beginn der Epidemie |
+> | :--- | ---: | ---: |
+> | Laborbestätigte Infektionen | 187 | 36895 |
+> | Hospitalisierungen | 11 | 4392 |
+> | Todesfälle | 1 | 1713 |
+> | Covid-19-Test | 4816 | 847325 |
 
-Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 32946 Infizierte gibt und 1686 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch.**
+Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 36895 Infizierte gibt/gab und 1713 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch.**
 
 ## Fehlerbehaftete Tests
 
@@ -30,4 +30,8 @@ Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) m
 ## **Positiver Test** ≠ **Erkrankung**
 
 Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
+
+## Falsche Daten
+
+Nach dem [Debakel zu den Infektionen in Clubs](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/news/news-02-08-2020.html) hat das das Bundesamt für Gesundheit \(BAG\) viel Glaubwürdigkeit verloren. Damit ist jede mit BAG Zahlen gerechtfertigte Massnahme grundsätzlich in Frage zustellen.
 
