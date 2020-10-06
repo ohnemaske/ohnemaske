@@ -10,14 +10,18 @@ Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/d
 
 > ### Epidemiologischen Lage in der Schweiz und im Fürstentum Liechtenstein
 >
-> | 5.9.2020, 8 Uhr | Neu | Total seit Beginn der Epidemie |
+> Seit 17. September 2020 erscheinen die täglichen Situationsberichte neu von Montag bis Freitag. Einen aussagekräftigen Überblick zur epidemiologischen Lage und Tendenz bietet der [wöchentliche, analytische Situationsbericht](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-604768966). Diesen veröffentlichen wir jeweils am Donnerstagmorgen.
+>
+> | 5.10.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
 > | :--- | ---: | ---: |
-> | Laborbestätigte Infektionen | 425 | 43957 |
-> | Hospitalisierungen | 6 | 4590 |
-> | Todesfälle | 0 | 1732 |
-> | Covid-19-Test | 15022 | 1085932 |
+> | Laborbestätigte Infektionen | 1 548 | 55 932 |
+> | Hospitalisierungen | 39 | 4 929 |
+> | Todesfälle | 3 | 1 787 |
+> | Covid-19-Test | 25 762 | 1 417 260 |
+>
+> \* seit 2.10.2020, 8 Uhr
 
-Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 43957 Infizierte gibt/gab und 1732 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 55932 Infizierte gibt/gab und 1787 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
