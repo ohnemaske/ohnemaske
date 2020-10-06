@@ -31,9 +31,13 @@ Jeder medizinische Test hat Fehlerraten. Aus einem positiven Testresultat lässt
 
 Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
 
+## Der SARS-CoV-2 Test kann keine Infektion nachweisen
+
+In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum der gegenwärtig verwendete Test nicht in der Lage ist, eine Infektion nachzuweisen.
+
 ## **Positiver Test** ≠ **Erkrankung**
 
-Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
+Selbst wenn man annimmt, dass die verwendeten Tests eine Infektion nachweisen können, sind bei der Sterberate folgende Überlegungen wichtig: Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
 
 ## Falsche Daten
 
