@@ -12,16 +12,16 @@ Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/d
 >
 > Seit 17. September 2020 erscheinen die täglichen Situationsberichte neu von Montag bis Freitag. Einen aussagekräftigen Überblick zur epidemiologischen Lage und Tendenz bietet der [wöchentliche, analytische Situationsbericht](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-604768966). Diesen veröffentlichen wir jeweils am Donnerstagmorgen.
 >
-> | 5.10.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
+> | 15.10.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
 > | :--- | ---: | ---: |
-> | Laborbestätigte Infektionen | 1 548 | 55 932 |
-> | Hospitalisierungen | 39 | 4 929 |
-> | Todesfälle | 3 | 1 787 |
-> | Covid-19-Test | 25 762 | 1 417 260 |
+> | Laborbestätigte Infektionen | 2 613 | 71 317 |
+> | Hospitalisierungen | 41 | 5 208 |
+> | Todesfälle | 2 | 1 818 |
+> | Covid-19-Test | 19 750 | 1 556 475 |
 >
-> \* seit 2.10.2020, 8 Uhr
+> \* seit 14.10.2020, 8 Uhr
 
-Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 55932 Infizierte gibt/gab und 1787 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 71317 Infizierte gibt/gab und 1818 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
@@ -31,9 +31,9 @@ Jeder medizinische Test hat Fehlerraten. Aus einem positiven Testresultat lässt
 
 Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
 
-## Der SARS-CoV-2 Test kann keine Infektion nachweisen
+## Die SARS-CoV-2 Tests können keine Infektion nachweisen
 
-In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum der gegenwärtig verwendete Test nicht in der Lage ist, eine Infektion nachzuweisen.
+In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum die gegenwärtig verwendeten Tests nicht in der Lage ist, eine Infektion nachzuweisen.
 
 ## **Positiver Test** ≠ **Erkrankung**
 
