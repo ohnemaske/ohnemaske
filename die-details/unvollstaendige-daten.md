@@ -21,7 +21,7 @@ Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/d
 >
 > \* seit 14.10.2020, 8 Uhr
 
-Für sich genommen ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 71317 Infizierte gibt/gab und 1818 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, das die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 71317 Infizierte gibt/gab und 1818 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
@@ -33,7 +33,7 @@ Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) m
 
 ## Die SARS-CoV-2 Tests können keine Infektion nachweisen
 
-In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum die gegenwärtig verwendeten Tests nicht in der Lage ist, eine Infektion nachzuweisen.
+In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum die gegenwärtig verwendeten Tests nicht in der Lage sind, eine Infektion nachzuweisen.
 
 ## **Positiver Test** ≠ **Erkrankung**
 
