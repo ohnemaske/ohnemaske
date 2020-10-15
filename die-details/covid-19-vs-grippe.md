@@ -1,6 +1,6 @@
-# COVID-19 vs. Grippe
+# Vergleich: COVID-19 und Grippe
 
-Mit den gegenwärtig verfügbaren Daten ist es nicht möglich die Gefährlichkeit des SARS-CoV-2 Virus abschliessend zu beurteilen. Es ist jedoch möglich anhand der **Todesfälle aller Ursachen** eine Idee davon zu bekommen wie wahrscheinlich es ist in der Schweiz an COVID-19 zu sterben.
+Mit den gegenwärtig verfügbaren Daten ist es nicht möglich, die Gefährlichkeit des SARS-CoV-2 Virus abschliessend zu beurteilen. Es ist jedoch möglich anhand der **Todesfälle aller Ursachen** eine Idee davon zu bekommen, wie wahrscheinlich es ist in der Schweiz an COVID-19 zu sterben.
 
 Man vergleiche z.B. die Todesfälle in den Wochen 1-39 \(siehe [Todesfälle nach Altersklasse, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.assetdetail.14716210.html)\):
 

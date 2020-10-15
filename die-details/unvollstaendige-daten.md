@@ -4,7 +4,7 @@ description: >-
   nachweislich falsch. Deren Interpretation ist irreführend.
 ---
 
-# Unvollständige und falsche Daten
+# Unvollständige, falsche Daten
 
 Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#2030838475):
 
