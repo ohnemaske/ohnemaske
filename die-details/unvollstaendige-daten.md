@@ -33,6 +33,10 @@ Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) m
 
 ## Die SARS-CoV-2 Tests können keine Infektion nachweisen
 
+Beda M. Stadler, emeritierter Professor für Immunologie an der Universität Bern, schreibt [in einem Artikel](https://www.weltwoche.ch/ausgaben/2020-36/diese-woche/masken-der-angst-die-weltwoche-ausgabe-36-2020.html) folgendes:
+
+> Es ist fraglich, was der PCR-Test, mit dem man keine akuten Infektionen nachweisen kann, für einen Nutzen haben soll, um Sars-CoV-2 zu bekämpfen. Für das Contact-Tracing ist er eigentlich unbrauchbar, weil es zu lange dauert, bis Resultate vorliegen. Hinzu kommt, dass eine junge Person mit intaktem Immunsystem, die positiv getestet wird, nicht and Covid-19 erkrankt. Trotzdem nennt das Bundesamt für Gesundheit \(BAG\) diese Fälle seit einiger Zeit "laborbestätigte Infektionen" und widerspricht damit eigenen Richtlinien.
+
 In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek) legt der Anwalt Dr. Reiner Fuellmich dar, warum die gegenwärtig verwendeten Tests nicht in der Lage sind, eine Infektion nachzuweisen.
 
 ## **Positiver Test** ≠ **Erkrankung**
