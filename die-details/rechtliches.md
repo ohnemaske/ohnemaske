@@ -12,7 +12,7 @@ In "[Eine juristische Analyse und Einordnung](https://corona-transition.org/die-
 
 > **FAZIT 3: Insofern sich die Maskenpflicht nicht auf das EpG stützen lässt, ist zu klären, ob diese Massnahme eine ungerechtfertigte behördliche Verhaltenslenkung darstellt. Es müsste dann insbesondere geprüft werden, ob der Bundesrat damit gegen den Grundsatz von Treu und Glauben verstösst \(Art. 2 ZGB\). Der Grundsatz von Treu und Glaube beinhaltet namentlich die Gewährleistung des Vertrauensschutzes sowie das Verbot widersprüchlichen Verhaltens und das Verbot des Rechtsmissbrauchs.**
 
-## [Gesetzeslage zur Maskenpflicht](https://raw.githubusercontent.com/ohnemaske/ohnemaske/master/.gitbook/assets/Raschein_Maskenpflicht.pdf)
+## Gesetzeslage zur Maskenpflicht
 
 \*\*\*\*
 
