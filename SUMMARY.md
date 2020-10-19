@@ -18,6 +18,6 @@
 ---
 
 * [ACU 2020](https://acu2020.org)
-* [Aletheia](https://aletheia-scimed.ch/)
 * [Die Great Barrington Erklärung](https://gbdeclaration.org/die-great-barrington-declaration/)
+* [Aletheia](https://aletheia-scimed.ch/)
 
