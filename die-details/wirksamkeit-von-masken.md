@@ -1,18 +1,14 @@
 # Masken
 
-## Studien
+## Studie der CDC zur Schutzwirkung von Masken gegen Grippe
 
-[Die meisten medizinischen Forschungsergebnisse sind falsch](https://www.zentrum-der-gesundheit.de/medizinische-forschung-ia.html). Diese Tatsache ist einerseits dem Umstand geschuldet, dass fast alle Menschen zuerst ihrer Intuition folgen und dann nach Hinweisen suchen, die diese Vorahnung bestätigen. Wir sind geneigt widersprechende Informationen entweder voreilig abzulehnen oder gleich ganz zu ignorieren. Auch erfahrene Wissenschaftler können sich diesen Mechanismen nicht ganz entziehen, **insbesondere dann nicht, wenn finanzielle Interessen im Spiel sind**.
+Im [Emerging Infectious Diseases Journal der CDC](https://wwwnc.cdc.gov/eid/article/26/5/19-0994_article) ist folgendes zu lesen:
 
-Andererseits werden die Ergebnisse von Studien gar nicht oder erst Jahre später von unabhängiger Seite überprüft \(Peer-Review\). Viele in der Presse zitierte Studien zum Thema Masken & Corona wurden entweder nie peer-reviewed oder dann nur von Institutionen mit Interessenkonflikten \(wie z.B. die WHO\).
+> Although mechanistic studies support the potential effect of hand hygiene or face masks, evidence from 14 randomized controlled trials of these measures did not support a substantial effect on transmission of laboratory-confirmed influenza. We similarly found limited evidence on the effectiveness of improved hygiene and environmental cleaning. We identified several major knowledge gaps requiring further research, most fundamentally an improved characterization of the modes of person-to-person transmission.
 
-Meta-Studien kombinieren die Ergebnisse von vielen Studien zum gleichen Thema und sind damit in der Regel glaubwürdiger.
+> In our systematic review, we identified 10 RCTs that reported estimates of the effectiveness of face masks in reducing laboratory-confirmed influenza virus infections in the community from literature published during 1946–July 27, 2018. In pooled analysis, we found no significant reduction in influenza transmission with the use of face masks
 
-Eine im Jahr 2016 durchgeführte Meta-Studie zum Thema medizinische Masken kommt zum Schluss, [dass diese gegen Viren wirkungslos sind](https://archive.is/mK9db):
-
-> It should be concluded from these and similar studies that the filter material of face masks does not retain or filter out viruses or other submicron particles.
-
-> When this understanding is combined with the poor fit of masks, it is readily appreciated that neither the filter performance nor the facial fit characteristics of face masks qualify them as being devices which protect against respiratory infections.
+> Disposable medical masks \(also known as surgical masks\) are loose-fitting devices that were designed to be worn by medical personnel to protect accidental contamination of patient wounds, and to protect the wearer against splashes or sprays of bodily fluids \([_36_](https://wwwnc.cdc.gov/eid/article/26/5/19-0994_article#r36)\). There is limited evidence for their effectiveness in preventing influenza virus transmission either when worn by the infected person for source control or when worn by uninfected persons to reduce exposure. Our systematic review found no significant effect of face masks on transmission of laboratory-confirmed influenza.
 
 ## Offener Brief von Belgischen Ärzten und Gesundheitspersonal
 
