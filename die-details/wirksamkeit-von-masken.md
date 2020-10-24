@@ -10,7 +10,7 @@ Im [Emerging Infectious Diseases Journal der CDC](https://wwwnc.cdc.gov/eid/arti
 
 > Disposable medical masks \(also known as surgical masks\) are loose-fitting devices that were designed to be worn by medical personnel to protect accidental contamination of patient wounds, and to protect the wearer against splashes or sprays of bodily fluids \([_36_](https://wwwnc.cdc.gov/eid/article/26/5/19-0994_article#r36)\). There is limited evidence for their effectiveness in preventing influenza virus transmission either when worn by the infected person for source control or when worn by uninfected persons to reduce exposure. Our systematic review found no significant effect of face masks on transmission of laboratory-confirmed influenza.
 
-Die zitierten Erkenntnisse dürften auch für den SARS-CoV-2 Virus gelten, weil dessen Übertragungswege nahezu identisch sind mit denen des Influenza Virus.
+Die zitierten Erkenntnisse dürften auch für den SARS-CoV-2 Virus gelten, weil [dessen Übertragungswege nahezu identisch sind mit denen des Influenza Virus](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-similarities-and-differences-covid-19-and-influenza#). Zudem ist das Influenza Virus \([80-120nm](https://en.wikipedia.org/wiki/Influenza_A_virus#Structure_and_genetics)\) etwa gleich gross wie das SARS-CoV-2 Virus \([60-140nm](https://www.ncbi.nlm.nih.gov/books/NBK554776/#article-52171.s2)\).
 
 ## Offener Brief von Belgischen Ärzten und Gesundheitspersonal
 
