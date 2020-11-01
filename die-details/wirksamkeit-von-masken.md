@@ -12,6 +12,12 @@ Im [Emerging Infectious Diseases Journal der CDC](https://wwwnc.cdc.gov/eid/arti
 
 Die zitierten Erkenntnisse dürften auch für den SARS-CoV-2 Virus gelten, weil [dessen Übertragungswege nahezu identisch sind mit denen des Influenza Virus](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-similarities-and-differences-covid-19-and-influenza#). Zudem ist das Influenza Virus \([80-120nm](https://en.wikipedia.org/wiki/Influenza_A_virus#Structure_and_genetics)\) etwa gleich gross wie das SARS-CoV-2 Virus \([60-140nm](https://www.ncbi.nlm.nih.gov/books/NBK554776/#article-52171.s2)\).
 
+## 12 Kurven die zeigen, dass die Maskenpflicht COVID nicht aufhält
+
+In einem [ausführlichen Artikel](https://thefederalist.com/2020/10/29/these-12-graphs-show-mask-mandates-do-nothing-to-stop-covid/) zeigt Yinon Weiss anhand von Beispielen rund um die Welt, dass das Tragen von Masken keinen erkennbaren Einfluss auf die Ausbreitung des SARS-CoV-2 Virus hat:
+
+> No matter how strictly mask laws are enforced nor the level of mask compliance the population follows, cases all fall and rise around the same time.
+
 ## Offener Brief von Belgischen Ärzten und Gesundheitspersonal
 
 In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesundheitsbehörden und Medien in Belgien ist folgendes zu lesen:
