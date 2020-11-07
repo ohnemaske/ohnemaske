@@ -43,7 +43,31 @@ In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek)
 
 Selbst wenn man annimmt, dass die verwendeten Tests eine Infektion nachweisen können, sind bei der Sterberate folgende Überlegungen wichtig: Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
 
-## Falsche Daten
+## Das Bundesamt für Gesundheit ist unglaubwürdig
 
-Nach dem [Debakel zu den Infektionen in Clubs](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/news/news-02-08-2020.html) hat das das Bundesamt für Gesundheit \(BAG\) viel Glaubwürdigkeit verloren. Damit ist jede mit BAG Zahlen gerechtfertigte Massnahme grundsätzlich in Frage zustellen.
+Die vom BAG verbreiteten Informationen sind unglaubwürdig. Damit ist jede mit BAG Zahlen gerechtfertigte Massnahme grundsätzlich in Frage zustellen. Hier sind nur 2 Beispiele:
+
+### Infektionen in Clubs
+
+In einer [Korrektur des BAG](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/news/news-02-08-2020.html) ist folgendes zu lesen:
+
+> Es zeigt sich, dass gemäss den klinischen Meldeformularen, die uns durch Ärztinnen und Ärzte zugestellt werden, die meisten Ansteckungen im familiären Umfeld geschehen, gefolgt vom Arbeitsplatz. Ausgehlokale machen entgegen der Tabelle vom Freitag einen einstelligen Prozentsatz aus.
+
+Wenn sich die meisten Leute im familiären Umfeld und bei der Arbeit anstecken \(wofür noch bis vor kurzem keinerlei Zwangsmassnahmen verordnet wurden\), dann machen die monatelangen drakonischen Massnahmen bei der Gastronomie wenig Sinn.
+
+### Das BAG widerspricht neu dem Erfinder des PCR Tests
+
+Am 20.05.2020 stand im [einem BAG Merkblatt](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/merkblatt-swissmedic-covid-19-testung.pdf.download.pdf/Merkblatt_zur_aktuellen_COVID-19_Testung_in_der_Schweiz_Swissmedic_BAG.pdf) folgendes:
+
+> Die PCR \(Polymerase-Kettenreaktion\) ist eine NAT \(Nucleic Acid Amplification Technology\)-Methode, der modernen Molekularbiologie um in einer Probe vorhandene Nukleinsäure \(RNA oder DNA\) in vitro zu vervielfältigen und danach mit geeigneten Detektionssystemen nachzuweisen. Der Nachweis der Nukleinsäure gibt jedoch keinen Rückschluss auf das Vorhandensein eines infektiösen Erregers. Dies kann nur mittels eines Virusnachweises und einer Vermehrung in der Zellkultur erfolgen.
+
+Neu \(Stand 31.08.2020\) steht dort:
+
+> Die PCR \(Polymerase-Kettenreaktion\) ist eine NAT \(Nucleic Acid Amplification Technology\)-Methode, der modernen Molekularbiologie um in einer Probe vorhandene Nukleinsäure \(RNA oder DNA\) in vitro zu vervielfältigen und danach mit geeigneten Detektionssystemen nachzuweisen. Mit dieser sehr empfindlichen Methode wird in Patientenproben spezifisch die Nukleinsäure eines Erregers nachgewiesen, was eine Infektion mit dem Erreger belegt.
+
+![](../.gitbook/assets/photo_2020-09-02_08-53-16.jpg)
+
+Damit widerspricht das BAG neu dem Erfinder des PCR Tests, Kary Mullis, welcher zum PCR Test [folgendes sagte](https://www.bitchute.com/video/9agbhtUMGeV3/):
+
+> It \[the PCR test\] doesn't tell you that you're sick. It doesn't tell you that the thing you ended up with really was gonna hurt you or anything like that.
 
