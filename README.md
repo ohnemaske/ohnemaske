@@ -15,7 +15,7 @@ Mit anderen Worten sollte jede Person für sich selbst entscheiden können, ob s
 * Wir tragen keine Maske.
 * Aufforderungen eine Maske anzuziehen leisten wir keine Folge und begründen dies je nach persönlicher Situation \(ärztlicher Attest, Maskenpflicht rechtlich unhaltbar, Protest, etc.\).
 * Aufforderungen das Gebäude oder Fahrzeug zu verlassen kommen wir nur dann nach, wenn diese durch gewalt-ermächtigte Organe \(Sicherheitsdienst, Bahnpolizei, Polizei\) erfolgen.
-* Allfällig ausgesprochene Bussen fechten wir gerichtlich an.
+* Allfällig ausgesprochene Bussen, Hausverbote, etc. fechten wir gerichtlich an.
 
 ## Warum?
 
