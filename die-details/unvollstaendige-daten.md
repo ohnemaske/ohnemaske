@@ -10,18 +10,18 @@ Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/d
 
 > ### Epidemiologischen Lage in der Schweiz und im Fürstentum Liechtenstein
 >
-> Seit 17. September 2020 erscheinen die täglichen Situationsberichte neu von Montag bis Freitag. Einen aussagekräftigen Überblick zur epidemiologischen Lage und Tendenz bietet der [wöchentliche, analytische Situationsbericht](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-604768966). Diesen veröffentlichen wir jeweils am Donnerstagmorgen.
+> \[...\]
 >
-> | 2.11.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
+> | 10.11.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
 > | :--- | ---: | ---: |
-> | Laborbestätigte Infektionen | 21 926 | 176 177 |
-> | Hospitalisierungen | 497 | 7 476 |
-> | Todesfälle | 93 | 2 130 |
-> | Covid-19-Test | 88 863 | 2 022 249 |
+> | Laborbestätigte Infektionen | 5 980 | 235 202 |
+> | Hospitalisierungen | 243 | 9 448 |
+> | Todesfälle | 107 | 2 683 |
+> | Covid-19-Test | 22 919 | 2 254 471 |
 >
-> \* seit 30.10.2020, 8 Uhr
+> \* seit 9.11.2020, 8 Uhr
 
-Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 176177 Infizierte gibt/gab und 2130 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 235202 Infizierte gibt/gab und 2683 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
