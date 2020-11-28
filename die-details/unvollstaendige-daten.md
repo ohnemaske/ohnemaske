@@ -6,22 +6,12 @@ description: >-
 
 # Unvollständige, falsche Daten
 
-Das Bundesamt für Gesundheit \(BAG\)  [schreibt](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#2030838475):
+Gemäss dem [wöchenlichen Lagebericht](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf) \(Stand 25.11.2020\) des Bundesamtes für Gesundheit \(BAG\), gibt/gab es:
 
-> ### Epidemiologischen Lage in der Schweiz und im Fürstentum Liechtenstein
->
-> \[...\]
->
-> | 10.11.2020, 8 Uhr | Neu\* | Total seit Beginn der Epidemie |
-> | :--- | ---: | ---: |
-> | Laborbestätigte Infektionen | 5 980 | 235 202 |
-> | Hospitalisierungen | 243 | 9 448 |
-> | Todesfälle | 107 | 2 683 |
-> | Covid-19-Test | 22 919 | 2 254 471 |
->
-> \* seit 9.11.2020, 8 Uhr
+* 309469 Fälle
+* 4030 Todesfälle
 
-Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 235202 Infizierte gibt/gab und 2683 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 309469 Infizierte gibt/gab und 4030 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
