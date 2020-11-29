@@ -28,7 +28,7 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 
 > Inappropriate use of masks without a comprehensive medical cardio-pulmonary test file is therefore not recommended by recognised safety specialists for workers. Hospitals have a sterile environment in their operating rooms where staff wear masks and there is precise regulation of humidity / temperature with appropriately monitored oxygen flow to compensate for this, thus meeting strict safety standards.
 
-## [Neurologin Margareta Griesz Brisson zur Maskenpflicht](https://www.youtube.com/watch?v=pd22FGeuyog)
+## [Neurologin Margareta Griesz Brisson zur Maskenpflicht](https://www.bitchute.com/video/ughAZr5wycHV/)
 
 ## [Eine Gruppe von Ärzten in Tulsa, Oklahoma verklagt die Behörden](https://www.youtube.com/watch?v=ZbmvCKcUNuA)
 
