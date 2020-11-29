@@ -32,3 +32,9 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 
 ## [Eine Gruppe von Ärzten in Tulsa, Oklahoma verklagt die Behörden](https://www.youtube.com/watch?v=ZbmvCKcUNuA)
 
+## [Mask Mouth](https://nypost.com/2020/08/05/mask-mouth-is-a-seriously-stinky-side-effect-of-wearing-masks/)
+
+> “We’re seeing inflammation in people’s gums that have been healthy forever, and cavities in people who have never had them before,” says Dr. Rob Ramondi, a dentist and co-founder of One Manhattan Dental. “About 50% of our patients are being impacted by this, \[so\] we decided to name it ‘mask mouth’ — after ‘meth mouth.’ ”
+
+
+
