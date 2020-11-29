@@ -42,3 +42,11 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 >
 > “Why might that be? Because untrained members of the public are wearing medical masks, repeatedly… in a non-sterile fashion… They’re becoming contaminated. They’re pulling them off of their car seat, off the rearview mirror, out of their pocket, from their countertop, and they’re reapplying a mask that should be worn fresh and sterile every single time.”
 
+## [Masks are Utterly Useless](https://summit.news/2020/11/18/top-pathologist-claims-coronavirus-is-the-greatest-hoax-ever-perpetrated-on-an-unsuspecting-public/)
+
+> Hodkinson remarked that “social distancing is useless because COVID is spread by aerosols which travel 30 meters or so before landing,” as he called for society to be re-opened immediately to prevent the debilitating damage being caused by lockdowns.
+>
+> Hodkinson also slammed mandatory mask mandates as completely pointless.
+>
+> “Masks are utterly useless. There is no evidence base for their effectiveness whatsoever,” he said.
+
