@@ -36,5 +36,9 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 
 > “We’re seeing inflammation in people’s gums that have been healthy forever, and cavities in people who have never had them before,” says Dr. Rob Ramondi, a dentist and co-founder of One Manhattan Dental. “About 50% of our patients are being impacted by this, \[so\] we decided to name it ‘mask mouth’ — after ‘meth mouth.’ ”
 
+## [“Bacterial Pneumonias Are on the Rise” from Mask Wearing](https://www.globalresearch.ca/medical-doctor-warns-bacterial-pneumonias-rise-mask-wearing/5725848)
 
+> “I’m seeing patients that have facial rashes, fungal infections, bacterial infections. Reports coming from my colleagues, all over the world, are suggesting that the bacterial pneumonias are on the rise.
+>
+> “Why might that be? Because untrained members of the public are wearing medical masks, repeatedly… in a non-sterile fashion… They’re becoming contaminated. They’re pulling them off of their car seat, off the rearview mirror, out of their pocket, from their countertop, and they’re reapplying a mask that should be worn fresh and sterile every single time.”
 
