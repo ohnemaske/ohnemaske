@@ -6,12 +6,12 @@ description: >-
 
 # Unvollständige, falsche Daten
 
-Gemäss dem [wöchenlichen Lagebericht](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf) \(Stand 25.11.2020\) des Bundesamtes für Gesundheit \(BAG\), gibt/gab es:
+Gemäss dem [wöchenlichen Lagebericht](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf) \(Stand 02.12.2020\) des Bundesamtes für Gesundheit \(BAG\), gibt/gab es:
 
-* 309'469 Fälle
-* 4'030 Todesfälle
+* 335'660 Fälle
+* 4'667 Todesfälle
 
-Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 309'469 Infizierte gibt/gab und 4'030 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 335'660 Infizierte gibt/gab und 4'667 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## Fehlerbehaftete Tests
 
