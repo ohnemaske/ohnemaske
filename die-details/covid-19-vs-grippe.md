@@ -47,9 +47,9 @@ Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC
 
 Der an dieser Stelle oft gehörte Einwand, dass die Übersterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der ergriffenen Zwangsmassnahmen und der jeweiligen Übersterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
 
-Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch kein Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
+Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch keinen Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
 
-## Vergleich: Übersterblichkeit in 2015 und 2020
+## Vergleich der Übersterblichkeit in 2015 und 2020
 
 Das Bundesamt für Statistik \(BFS\) veröffentlicht auf der Seite [Sterblichkeit, Todesursachen](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html) auch Grafiken, welche die Übersterblichkeit visualisieren. In den folgenden Abschnitten wird die Übersterblichkeit in 2015 mit derjenigen von 2020 verglichen. **In beiden Fällen ist fast ausschliesslich die Altersgruppe ab 65 Jahre betroffen.**
 
