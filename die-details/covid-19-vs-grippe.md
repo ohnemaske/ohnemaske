@@ -4,7 +4,7 @@ Mit den gegenwärtig verfügbaren Daten ist es nicht möglich, die Gefährlichke
 
 Die nächsten Abschnitte führen aus, warum COVID-19 bis jetzt nur unwesentlich gefährlicher ist als eine starke Grippewelle.
 
-## Übersterblichkeit in 2020 nur 2% höher als in 2015
+## Sterblichkeit in 2020 nur 2% höher als in 2015
 
 Wenn man die Todesfälle aller Ursachen \(siehe [Todesfälle nach Altersklasse, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.assetdetail.15244588.html)\) ins Verhältnis setzt zur Wohnbevölkerung \(siehe [Bevölkerung](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/bevoelkerung.html)\), dann ergibt sich folgendes Bild:
 
@@ -45,11 +45,11 @@ Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC
 
 ## Fragliche Wirksamkeit der Zwangsmassnahmen
 
-Der an dieser Stelle oft gehörte Einwand, dass die Übersterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der ergriffenen Zwangsmassnahmen und der jeweiligen Übersterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
+Der an dieser Stelle oft gehörte Einwand, dass die Übersterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
 
 Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch keinen Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
 
-## Vergleich der Übersterblichkeit in 2015 und 2020
+## Vergleich der Sterblichkeit in 2015 und 2020
 
 Das Bundesamt für Statistik \(BFS\) veröffentlicht auf der Seite [Sterblichkeit, Todesursachen](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html) auch Grafiken, welche die Übersterblichkeit visualisieren. In den folgenden Abschnitten wird die Übersterblichkeit in 2015 mit derjenigen von 2020 verglichen. **In beiden Fällen ist fast ausschliesslich die Altersgruppe ab 65 Jahre betroffen.**
 
