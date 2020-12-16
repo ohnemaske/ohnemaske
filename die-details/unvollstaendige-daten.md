@@ -15,11 +15,15 @@ Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infe
 
 ## Fehlerbehaftete Tests
 
-Jeder medizinische Test hat Fehlerraten. Aus einem positiven Testresultat lässt sich nicht zwingend eine Infektion ableiten. Umgekehrt heisst ein negatives Resultat nicht, dass beim getesteten Menschen keine Infektion besteht. Auch relativ kleine Fehlerraten beim einzelnen Test können zu Gesamtergebnissen führen, die überraschend weit von der Realität abweichen. Ein Beispiel von [HIV Tests in Deutschland](https://de.wikipedia.org/wiki/Beurteilung_eines_bin%C3%A4ren_Klassifikators#HIV_in_der_BRD) demonstriert dies anschaulich:
+Ganz allgemein hat jeder medizinische Test Fehlerraten. Aus einem positiven Testresultat lässt sich nicht zwingend eine Infektion ableiten. Umgekehrt heisst ein negatives Resultat nicht, dass beim getesteten Menschen keine Infektion besteht. Auch relativ kleine Fehlerraten beim einzelnen Test können zu Gesamtergebnissen führen, die überraschend weit von der Realität abweichen. Ein Beispiel von [HIV Tests in Deutschland](https://de.wikipedia.org/wiki/Beurteilung_eines_bin%C3%A4ren_Klassifikators#HIV_in_der_BRD) demonstriert dies anschaulich:
 
 > Somit liegt die [Wahrscheinlichkeit](https://de.wikipedia.org/wiki/Wahrscheinlichkeit), dass jemand, der nur mit dem [ELISA](https://de.wikipedia.org/wiki/Enzyme-linked_Immunosorbent_Assay)-Test positiv getestet würde, auch wirklich HIV-positiv wäre, bei nur 45 % \(positiver Vorhersagewert\). Dieser angesichts der sehr geringen Fehlerrate von 0,1 % niedrige Wert liegt darin begründet, dass HIV nur bei etwa 0,08 % der Bundesbürger auftritt.
 
 Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
+
+## \*\*\*\*[**Drosten: Inkompetenz und Interessenkonflikte**](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/) ****
+
+> On November 27 a highly-respected group of 23 international virologists, microbiologists and related scientists published a call for Eurosurveillance to retract the January 23, 2020 Drosten article. Their careful analysis of the original piece is [damning](https://cormandrostenreview.com/report/). Theirs is a genuine “peer review.” They accuse Drosten and cohorts of “fatal” scientific incompetence and flaws in promoting their test.
 
 ## Die SARS-CoV-2 Tests können keine Infektion nachweisen
 
