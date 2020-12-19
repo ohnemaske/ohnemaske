@@ -21,7 +21,9 @@ Ganz allgemein hat jeder medizinische Test Fehlerraten. Aus einem positiven Test
 
 Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
 
-## \*\*\*\*[**Drosten: Inkompetenz und Interessenkonflikte**](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/) ****
+## \*\*\*\*[**Drosten: Inkompetenz und Interessenkonflikte**](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/)\*\*\*\*
+
+> On January 23, 2020, in the scientific journal Eurosurveillance, of the EU Center for Disease Prevention and Control, Dr. Christian Drosten, along with several colleagues from the Berlin Virology Institute at Charite Hospital, along with the head of a small Berlin biotech company, TIB Molbiol Syntheselabor GmbH, published a study claiming to have developed the first effective test for detecting whether someone is infected with the novel coronavirus identified first only days before in Wuhan. The Drosten article was titled, “Detection of 2019 novel coronavirus \(2019-nCoV\) by real-time RT-PCR” \(Eurosurveillance 25\(8\) 2020\).
 
 > On November 27 a highly-respected group of 23 international virologists, microbiologists and related scientists published a call for Eurosurveillance to retract the January 23, 2020 Drosten article. Their careful analysis of the original piece is [damning](https://cormandrostenreview.com/report/). Theirs is a genuine “peer review.” They accuse Drosten and cohorts of “fatal” scientific incompetence and flaws in promoting their test.
 
