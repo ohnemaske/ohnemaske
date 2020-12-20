@@ -30,7 +30,7 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 
 ## Proof That Face Masks Do More Harm Than Good
 
-In seinem Buch nennt Dr. Vernon Coleman 100 Gründe warum das Tragen von Masken mehr schadet als nützt.
+In [seinem Buch](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/5212a3fd-e4f5-468d-ab9e-0d63f6689caf.pdf) nennt Dr. Vernon Coleman 100 Gründe warum das Tragen von Masken mehr schadet als nützt.
 
 ## [Neurologin Margareta Griesz Brisson zur Maskenpflicht](https://www.bitchute.com/video/ughAZr5wycHV/)
 
