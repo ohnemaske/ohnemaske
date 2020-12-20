@@ -69,7 +69,7 @@ Auch ein zuverlässiger, validierter medizinischer Test hat Fehlerraten. Aus ein
 
 > Somit liegt die [Wahrscheinlichkeit](https://de.wikipedia.org/wiki/Wahrscheinlichkeit), dass jemand, der nur mit dem [ELISA](https://de.wikipedia.org/wiki/Enzyme-linked_Immunosorbent_Assay)-Test positiv getestet würde, auch wirklich HIV-positiv wäre, bei nur 45 % \(positiver Vorhersagewert\). Dieser angesichts der sehr geringen Fehlerrate von 0,1 % niedrige Wert liegt darin begründet, dass HIV nur bei etwa 0,08 % der Bundesbürger auftritt.
 
-Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
+Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich, wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
 
 ## **Positiver Test** ≠ **Erkrankung**
 
