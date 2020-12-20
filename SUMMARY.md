@@ -22,4 +22,5 @@
 * [Aletheia](https://aletheia-scimed.ch/)
 * [Unerhört der Film](https://www.unerhoert-der-film.ch/)
 * [Robert Stein: Der grosse Reset](https://www.youtube.com/watch?v=2gtAsk5GAy0)
+* [World Vaccine Poll](https://www.worldvaccinepoll.com)
 
