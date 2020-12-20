@@ -28,7 +28,7 @@ In [einem offen Brief](https://docs4opendebate.be/en/open-letter/) an die Gesund
 
 > Inappropriate use of masks without a comprehensive medical cardio-pulmonary test file is therefore not recommended by recognised safety specialists for workers. Hospitals have a sterile environment in their operating rooms where staff wear masks and there is precise regulation of humidity / temperature with appropriately monitored oxygen flow to compensate for this, thus meeting strict safety standards.
 
-## Proof That Face Masks Do More Harm Than Good
+## Vernon Coleman: Masken schaden mehr als sie nützen
 
 In [seinem Buch](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/5212a3fd-e4f5-468d-ab9e-0d63f6689caf.pdf) nennt Dr. Vernon Coleman 100 Gründe warum das Tragen von Masken mehr schadet als nützt.
 
