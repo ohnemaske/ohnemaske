@@ -13,14 +13,6 @@ Gemäss dem [wöchenlichen Lagebericht](https://www.bag.admin.ch/dam/bag/de/doku
 
 Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 394'453 Infizierte gibt/gab und 5'781 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
-## Fehlerbehaftete Tests
-
-Ganz allgemein hat jeder medizinische Test Fehlerraten. Aus einem positiven Testresultat lässt sich nicht zwingend eine Infektion ableiten. Umgekehrt heisst ein negatives Resultat nicht, dass beim getesteten Menschen keine Infektion besteht. Auch relativ kleine Fehlerraten beim einzelnen Test können zu Gesamtergebnissen führen, die überraschend weit von der Realität abweichen. Ein Beispiel von [HIV Tests in Deutschland](https://de.wikipedia.org/wiki/Beurteilung_eines_bin%C3%A4ren_Klassifikators#HIV_in_der_BRD) demonstriert dies anschaulich:
-
-> Somit liegt die [Wahrscheinlichkeit](https://de.wikipedia.org/wiki/Wahrscheinlichkeit), dass jemand, der nur mit dem [ELISA](https://de.wikipedia.org/wiki/Enzyme-linked_Immunosorbent_Assay)-Test positiv getestet würde, auch wirklich HIV-positiv wäre, bei nur 45 % \(positiver Vorhersagewert\). Dieser angesichts der sehr geringen Fehlerrate von 0,1 % niedrige Wert liegt darin begründet, dass HIV nur bei etwa 0,08 % der Bundesbürger auftritt.
-
-Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
-
 ## \*\*\*\*[**Drosten: Inkompetenz und Interessenkonflikte**](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/)\*\*\*\*
 
 > On January 23, 2020, in the scientific journal Eurosurveillance, of the EU Center for Disease Prevention and Control, Dr. Christian Drosten, along with several colleagues from the Berlin Virology Institute at Charite Hospital, along with the head of a small Berlin biotech company, TIB Molbiol Syntheselabor GmbH, published a study claiming to have developed the first effective test for detecting whether someone is infected with the novel coronavirus identified first only days before in Wuhan. The Drosten article was titled, “Detection of 2019 novel coronavirus \(2019-nCoV\) by real-time RT-PCR” \(Eurosurveillance 25\(8\) 2020\).
@@ -42,10 +34,6 @@ In einem [ausführlichen Interview](https://www.youtube.com/watch?v=gvB0vuM5bek)
 ### [Berliner Zeitung: Antwort des Senats auf die Anfrage von Marcel Luthe](https://www.berliner-zeitung.de/news/berliner-oppositionspolitiker-bezweifelt-sinn-von-pcr-tests-li.117128)
 
 > Die Senatsverwaltung für Gesundheit hat bestätigt, dass PCR-Tests eigentlich nicht in der Lage sind, eine Infektion im Sinne des Infektionsschutzgesetzes festzustellen. Das geht aus der Antwort auf eine Anfrage des Einzelabgeordneten Marcel Luthe hervor.
-
-## **Positiver Test** ≠ **Erkrankung**
-
-Selbst wenn man annimmt, dass die verwendeten Tests eine Infektion nachweisen können, sind bei der Sterberate folgende Überlegungen wichtig: Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
 
 ## Das Bundesamt für Gesundheit ist unglaubwürdig
 
@@ -74,4 +62,16 @@ Neu \(Stand 31.08.2020\) steht dort:
 Damit widerspricht das BAG neu dem Erfinder des PCR Tests, Kary Mullis, welcher zum PCR Test [folgendes sagte](https://www.bitchute.com/video/9agbhtUMGeV3/):
 
 > It \[the PCR test\] doesn't tell you that you're sick. It doesn't tell you that the thing you ended up with really was gonna hurt you or anything like that.
+
+## Fehlerbehaftete Tests
+
+Auch ein zuverlässiger, validierter medizinischer Test hat Fehlerraten. Aus einem positiven Testresultat lässt sich nicht zwingend eine Infektion ableiten. Umgekehrt heisst ein negatives Resultat nicht, dass beim getesteten Menschen keine Infektion besteht. Auch relativ kleine Fehlerraten beim einzelnen Test können zu Gesamtergebnissen führen, die überraschend weit von der Realität abweichen. Ein Beispiel von [HIV Tests in Deutschland](https://de.wikipedia.org/wiki/Beurteilung_eines_bin%C3%A4ren_Klassifikators#HIV_in_der_BRD) demonstriert dies anschaulich:
+
+> Somit liegt die [Wahrscheinlichkeit](https://de.wikipedia.org/wiki/Wahrscheinlichkeit), dass jemand, der nur mit dem [ELISA](https://de.wikipedia.org/wiki/Enzyme-linked_Immunosorbent_Assay)-Test positiv getestet würde, auch wirklich HIV-positiv wäre, bei nur 45 % \(positiver Vorhersagewert\). Dieser angesichts der sehr geringen Fehlerrate von 0,1 % niedrige Wert liegt darin begründet, dass HIV nur bei etwa 0,08 % der Bundesbürger auftritt.
+
+Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) massiv verbessert werden, aber Rückschlüsse auf die Realität sind nur dann möglich wenn Verfahren und Fehlerraten dokumentiert sind. Bei den vom BAG publizierten Daten scheint dies nicht der Fall zu sein, **daher kann eine Interpretation der unvollständigen Daten fast beliebig weit von der Realität abweichen.**
+
+## **Positiver Test** ≠ **Erkrankung**
+
+Selbst wenn man annimmt, dass die verwendeten Tests eine Infektion nachweisen können, sind bei der Sterberate folgende Überlegungen wichtig: Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
 
