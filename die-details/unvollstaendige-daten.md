@@ -19,7 +19,7 @@ Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infe
 
 > On November 27 a highly-respected group of 23 international virologists, microbiologists and related scientists published a call for Eurosurveillance to retract the January 23, 2020 Drosten article. Their careful analysis of the original piece is [damning](https://cormandrostenreview.com/report/). Theirs is a genuine “peer review.” They accuse Drosten and cohorts of “fatal” scientific incompetence and flaws in promoting their test.
 
-## [WHO: PCR Tests führen zu falsch positiven Ergebnissen](https://www.zerohedge.com/medical/who-finally-admits-pcr-tests-create-false-positives)
+## [WHO: PCR Tests erzeugen falsch positive Ergebnisse](https://www.zerohedge.com/medical/who-finally-admits-pcr-tests-create-false-positives)
 
 > Users of RT-PCR reagents should read the IFU carefully to determine if manual adjustment of the PCR positivity threshold is necessary to account for any background noise which **may lead to a specimen with a high cycle threshold \(Ct\) value result being interpreted as a positive result.**
 
