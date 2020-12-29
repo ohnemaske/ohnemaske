@@ -23,4 +23,5 @@
 * [Unerhört der Film](https://www.unerhoert-der-film.ch/)
 * [Robert Stein: Der grosse Reset](https://www.youtube.com/watch?v=2gtAsk5GAy0)
 * [World Vaccine Poll](https://www.worldvaccinepoll.com)
+* [Britische Journalistin wird verfolgt](https://www.zerohedge.com/covid-19/uk-journalist-hounded-after-pointing-out-only-old-and-sick-die-covid)
 
