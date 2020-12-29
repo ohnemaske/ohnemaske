@@ -43,15 +43,15 @@ Wenn man die Todesfälle aller Ursachen \(siehe [Todesfälle nach Altersklasse, 
 Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC belegen](https://twitter.com/drdavidsamadi/status/1292754283188948992). Zudem hat das CDC neulich [die sehr tiefen Mortalitätszahlen](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) bestätigt: Nach den besten gegenwärtigen Schätzungen müssen mit SARS-CoV-2 infizierte Personen unter 50 Jahren mit einer maximalen Mortalitätsrate von 0.02% rechnen, für 50-69 jährige beträgt diese 0.5%.
 {% endhint %}
 
-## Fragliche Wirksamkeit der Zwangsmassnahmen
+### Fragliche Wirksamkeit der Zwangsmassnahmen
 
-Der an dieser Stelle oft gehörte Einwand, dass die Übersterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
+Der an dieser Stelle oft gehörte Einwand, dass die Sterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
 
 Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch keinen Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
 
 ## Vergleich der Sterblichkeit in 2015 und 2020
 
-Das Bundesamt für Statistik \(BFS\) veröffentlicht auf der Seite [Sterblichkeit, Todesursachen](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html) auch Grafiken, welche die Übersterblichkeit visualisieren. In den folgenden Abschnitten wird die Übersterblichkeit in 2015 mit derjenigen von 2020 verglichen. **In beiden Fällen ist fast ausschliesslich die Altersgruppe ab 65 Jahre betroffen.**
+Das Bundesamt für Statistik \(BFS\) veröffentlicht auf der Seite [Sterblichkeit, Todesursachen](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html) auch Grafiken, welche die Übersterblichkeit visualisieren. In den folgenden Abschnitten wird die Sterblichkeit in 2015 mit derjenigen von 2020 verglichen. **In beiden Fällen ist fast ausschliesslich die Altersgruppe ab 65 Jahre betroffen.**
 
 ### 2015
 
@@ -62,4 +62,14 @@ Die vergleichsweise hohe Zahl an Todesfällen im Frühjahr 2015 [schreibt das BF
 ### 2020
 
 ![](../.gitbook/assets/2020.png)
+
+## Die Spitäler sind nicht überlastet
+
+Der ebenfalls oft gehörte Einwand, dass die Bettenkapazität in den Intensivstationen bald ausgeschöpft sei, hält einer genaueren Überprüfung auch nicht stand. Laut den [offiziellen Zahlen](https://www.covid19.admin.ch/de/hosp-capacity/icu?rel=rel) lag die landesweite Auslastung nie über 80%.
+
+![](../.gitbook/assets/bag_covid_19_hospcapacityicu_development_24_dezember_2020.png)
+
+In den Medien ist typischerweise nur von der Überlastung einzelner Spitäler zu lesen, die wirklich relevante landesweite Auslastung ist scheinbar nie ein Thema.
+
+Wie zum Teil berichtet, gibt es wegen Quarantäne und krankheitsbedingten Ausfällen möglicherweise Engpässe beim Personal. Dazu werden scheinbar keine offiziellen Zahlen publiziert.
 
