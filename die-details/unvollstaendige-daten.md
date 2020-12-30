@@ -15,7 +15,7 @@ Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infe
 
 ## **Drosten: Inkompetenz und Interessenkonflikte**
 
-Im Zentrum SARS-CoV-2 Pandemie steht die Erhebung der Anzahl der Infizierten mittels des [von Drosten \(und anderen\) propagierten Testverfahrens](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045). F. William Engdahl zeigt [in seinem Artikel](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/) auf, warum dieses Verfahren fatale Mängel aufweist:
+Im Zentrum SARS-CoV-2 Pandemie steht die Erhebung der Anzahl der Infizierten mittels des [von Drosten \(und anderen\) propagierten Testverfahrens](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045). F. William Engdahl zeigt [in seinem Artikel](https://journal-neo.org/2020/12/10/coronavirus-scandal-breaking-in-merkel-s-germany-2/) auf, warum dieses Verfahren fatale Mängel aufweist. Hier sind zwei Auszüge:
 
 > On January 23, 2020, in the scientific journal Eurosurveillance, of the EU Center for Disease Prevention and Control, Dr. Christian Drosten, along with several colleagues from the Berlin Virology Institute at Charite Hospital, along with the head of a small Berlin biotech company, TIB Molbiol Syntheselabor GmbH, published a study claiming to have developed the first effective test for detecting whether someone is infected with the novel coronavirus identified first only days before in Wuhan. The Drosten article was titled, “Detection of 2019 novel coronavirus \(2019-nCoV\) by real-time RT-PCR” \(Eurosurveillance 25\(8\) 2020\).
 
