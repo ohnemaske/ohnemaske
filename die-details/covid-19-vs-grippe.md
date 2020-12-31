@@ -65,6 +65,8 @@ Die vergleichsweise hohe Zahl an Todesfällen im Frühjahr 2015 [schreibt das BF
 
 ![](../.gitbook/assets/2020.png)
 
+Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, daher erscheint die Sterblichkeit von 2020 rein optisch viel höher als diejenige von 2015. [Zahlenmässig liegt die Sterblichkeit in 2020 gegenwärtig nur 5% über der von 2015](covid-19-vs-grippe.md#sterblichkeit-in-2020-nur-5-hoeher-als-in-2015).   
+
 ## Die Spitäler sind nicht überlastet
 
 Der ebenfalls oft gehörte Einwand, dass die Bettenkapazität in den Intensivstationen bald ausgeschöpft sei, hält einer genaueren Überprüfung auch nicht stand. Laut den [offiziellen Zahlen](https://www.covid19.admin.ch/de/hosp-capacity/icu?rel=rel) lag die landesweite Auslastung nie über 80%.
