@@ -11,7 +11,7 @@ Gemäss dem [wöchenlichen ](https://github.com/ohnemaske/ohnemaske/raw/master/.
 * 470'789 Fälle
 * 7'434 Todesfälle
 
-Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass im Jahr 2020 470'789 Infizierte gab und 7'434 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, dass die verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es im Jahr 2020 470'789 Infizierte gab und 7'434 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## **Drosten: Inkompetenz und Interessenkonflikte**
 
@@ -26,6 +26,8 @@ Im Zentrum SARS-CoV-2 Pandemie steht die Erhebung der Anzahl der Infizierten mit
 > Users of RT-PCR reagents should read the IFU carefully to determine if manual adjustment of the PCR positivity threshold is necessary to account for any background noise which **may lead to a specimen with a high cycle threshold \(Ct\) value result being interpreted as a positive result.**
 
 > The design principle of RT-PCR means that for patients with high levels of circulating virus \(viral load\), relatively few cycles will be needed to detect virus and so the Ct value will be low. Conversely, when specimens return a high Ct value, it means that many cycles were required to detect virus. **In some circumstances, the distinction between background noise and actual presence of the target virus is difficult to ascertain.**
+
+Wenn nun ein falsch positiv getesteter Mensch an einer anderen Krankheit stirbt, dann stellt sich die Frage, wie dieser Tod in die Statistik der Todesursachen einfliesst, siehe [Positiver Test ≠ Erkrankung](unvollstaendige-daten.md#positiver-test-erkrankung).
 
 ## Die SARS-CoV-2 Tests können keine Infektion nachweisen
 
@@ -82,4 +84,6 @@ Solche Ergebnisse können mit geeigneten Massnahmen \(z.B. mehrfaches Testen\) m
 ## **Positiver Test** ≠ **Erkrankung**
 
 Selbst wenn man annimmt, dass die verwendeten Tests eine Infektion nachweisen können, sind bei der Sterberate folgende Überlegungen wichtig: Auch ein mehrfach bestätigter positiver SARS-CoV-2 Befund bedeutet nicht, dass der getestete Mensch an COVID-19 erkrankt ist \(COVID-19 ist die Krankheit die durch das SARS-CoV-2 Virus ausgelöst wird\). Er kann genauso gut ein asymptomatischer Träger des Virus sein. Ein positiv getesteter Toter kann darum an einer anderen Krankheit \(z.B. Lungenentzündung, Grippe\) erlegen sein, taucht aber in den Daten des BAG als "Todesfall mit laborbestätigter Infektion" auf. Ob ein positiver Toter nun tatsächlich wegen COVID-19 verstorben ist, ist in der Praxis wenn überhaupt nur mit einer aufwändigen Autopsie festzustellen. Das BAG scheint dazu keine Zahlen zu veröffentlichen.
+
+Es ist daher fast unmöglich festzustellen, genau wie viele Hospitalisationen & Tote durch SARS-CoV-2 verursacht wurden. Aussagekräftiger ist es daher, wenn man die **Todesfälle aller Ursachen** das Jahres 2020 mit denen eines Jahres mit einer starken Grippewelle \(z.B. 2015\) vergleicht, siehe [Vergleich: COVID-19 und Grippe](covid-19-vs-grippe.md).
 
