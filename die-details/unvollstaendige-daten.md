@@ -6,12 +6,12 @@ description: >-
 
 # Unvollständige, falsche Daten
 
-Gemäss dem [wöchenlichen Lagebericht](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf) \(Stand 23.12.2020 08:00\) des Bundesamtes für Gesundheit \(BAG\), gibt/gab es:
+Gemäss dem [wöchenlichen ](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/bag_covid-19_woechentliche_lage.pdf)[Lagebericht](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/bag_covid-19_woechentliche_lage.pdf) des Bundesamtes für Gesundheit \(BAG\), gab es in der Schweiz im Jahre 2020:
 
-* 423'299 Fälle
-* 6'431 Todesfälle
+* 470'789 Fälle
+* 7'434 Todesfälle
 
-Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass es 423'299 Infizierte gibt/gab und 6'431 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
+Unter der Annahme, dass die gegenwärtig verwendeten SARS-CoV-2 Tests [eine Infektion nachweisen können,](unvollstaendige-daten.md#die-sars-cov-2-tests-koennen-keine-infektion-nachweisen) ist an diesen Daten nicht viel auszusetzen. Das Problem entsteht bei deren Interpretation. Viele Leser und fast alle Medien werden nämlich daraus ableiten, dass im Jahr 2020 470'789 Infizierte gab und 7'434 an den Folgen der Infektion verstorben sind. **Diese Interpretation ist falsch**, die folgenden Abschnitte zeigen auf warum.
 
 ## **Drosten: Inkompetenz und Interessenkonflikte**
 
