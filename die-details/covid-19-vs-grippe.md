@@ -70,7 +70,7 @@ Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, d
 
 ## Die Spitäler sind nicht überlastet
 
-Der ebenfalls oft gehörte Einwand, dass die Bettenkapazität in den Intensivstationen bald ausgeschöpft sei, hält einer genaueren Überprüfung auch nicht stand. Laut den [offiziellen Zahlen](https://www.covid19.admin.ch/de/hosp-capacity/icu?rel=rel) lag die landesweite Auslastung nie über 80%.
+Der ebenfalls oft gehörte Einwand, dass die Bettenkapazität in den Intensivstationen bald ausgeschöpft sei, hält einer genaueren Überprüfung auch nicht stand. Laut den [offiziellen Zahlen](https://www.covid19.admin.ch/de/hosp-capacity/icu?rel=rel) lag die landesweite Auslastung bis Ende 2020 nie über 80%.
 
 ![](../.gitbook/assets/icubelegung.png)
 
