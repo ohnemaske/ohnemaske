@@ -6,7 +6,7 @@ description: >-
 
 # Unvollständige, falsche Daten
 
-Gemäss dem [wöchenlichen ](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/bag_covid-19_woechentliche_lage.pdf)[Lagebericht](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/bag_covid-19_woechentliche_lage.pdf) des Bundesamtes für Gesundheit \(BAG\), gab es in der Schweiz im Jahre 2020:
+Gemäss dem [wöchenlichen Lagebericht](https://github.com/ohnemaske/ohnemaske/raw/master/.gitbook/assets/bag_covid-19_woechentliche_lage.pdf) des Bundesamtes für Gesundheit \(BAG\), gab es in der Schweiz im Jahre 2020:
 
 * 470'789 Fälle
 * 7'434 Todesfälle
