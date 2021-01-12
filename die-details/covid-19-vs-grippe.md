@@ -4,43 +4,16 @@ Mit den gegenwärtig verfügbaren Daten ist es nicht möglich, die Gefährlichke
 
 Die nächsten Abschnitte führen aus, warum COVID-19 bis jetzt nur unwesentlich gefährlicher ist als eine starke Grippewelle.
 
-## Sterblichkeit in 2020 nur 5% höher als in 2015
+## Sterblichkeit in 2020 nur 6% höher als in 2015
 
-Wenn man die Todesfälle aller Ursachen \(siehe [Todesfälle nach Altersklasse, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.assetdetail.15384455.html)\) ins Verhältnis setzt zur Wohnbevölkerung \(siehe [2015](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/bevoelkerung.assetdetail.13707332.html) & [2020](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/bevoelkerung.assetdetail.14941420.html)\), dann ergibt sich folgendes Bild:
+Wenn man die Todesfälle aller Ursachen \(siehe [Todesfälle nach Altersklasse, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.assetdetail.15464207.html)\) ins Verhältnis setzt zur Wohnbevölkerung \(siehe [2015](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/bevoelkerung.assetdetail.13707332.html) & [2020](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/bevoelkerung.assetdetail.14941420.html)\), dann ergibt sich folgendes Bild:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Jahr</th>
-      <th style="text-align:left">
-        <p>Todesf&#xE4;lle</p>
-        <p>Wochen 1-52</p>
-      </th>
-      <th style="text-align:left">St&#xE4;ndige
-        <br />Wohnbev&#xF6;lkerung</th>
-      <th style="text-align:left">Todesf&#xE4;lle
-        <br />pro 100&apos;000</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">2015</td>
-      <td style="text-align:left">67&apos;468</td>
-      <td style="text-align:left">8&apos;327&apos;126
-        <br />(01.01.2016)</td>
-      <td style="text-align:left">810</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2020</td>
-      <td style="text-align:left">73&apos;694</td>
-      <td style="text-align:left">8&apos;655&apos;118
-        <br />(30.09.2020)</td>
-      <td style="text-align:left">851</td>
-    </tr>
-  </tbody>
-</table>
+| Jahr | Todesfälle | Ständige Wohnbevölkerung | Todesfälle pro 100'000 |
+| :--- | :--- | :--- | :--- |
+| 2015 | 68'786 | 8'327'126 \(01.01.2016\) | 826 |
+| 2020 | 75'861 | 8'655'118 \(30.09.2020\) | 876 |
 
-**Demnach war die Wahrscheinlichkeit in den Wochen 1-52 in 2020 zu sterben nur 5% höher als die in den Wochen 1-52 in 2015  zu sterben.** 2015 wurde die Schweiz von einer [relativ starken Grippewelle](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/medienmitteilungen.assetdetail.3742835.html)  heimgesucht.
+**Demnach war die Wahrscheinlichkeit in 2020 zu sterben nur 6% höher als die in 2015  zu sterben.** 2015 wurde die Schweiz von einer [relativ starken Grippewelle](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/medienmitteilungen.assetdetail.3742835.html)  heimgesucht.
 
 {% hint style="info" %}
 Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC belegen](https://twitter.com/drdavidsamadi/status/1292754283188948992). Zudem hat das CDC neulich [die sehr tiefen Mortalitätszahlen](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) bestätigt: Nach den besten gegenwärtigen Schätzungen müssen mit SARS-CoV-2 infizierte Personen unter 50 Jahren mit einer maximalen Mortalitätsrate von 0.02% rechnen, für 50-69 jährige beträgt diese 0.5%.
@@ -64,9 +37,9 @@ Die vergleichsweise hohe Zahl an Todesfällen im Frühjahr 2015 [schreibt das BF
 
 ### 2020
 
-![](../.gitbook/assets/2020.png)
+![](../.gitbook/assets/2020%20%281%29.png)
 
-Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, daher erscheint die Sterblichkeit von 2020 rein optisch viel höher als diejenige von 2015. [Zahlenmässig liegt die Sterblichkeit in 2020 gegenwärtig nur 5% über der von 2015](covid-19-vs-grippe.md#sterblichkeit-in-2020-nur-5-hoeher-als-in-2015).   
+Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, daher erscheint die Sterblichkeit von 2020 rein optisch viel höher als diejenige von 2015. [Zahlenmässig liegt die Sterblichkeit in 2020 nur 6% über der von 2015](covid-19-vs-grippe.md#sterblichkeit-in-2020-nur-5-hoeher-als-in-2015).
 
 ## Die Spitäler sind nicht überlastet
 
