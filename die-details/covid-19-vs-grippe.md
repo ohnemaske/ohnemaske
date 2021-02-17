@@ -21,7 +21,7 @@ Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC
 
 ### Fragliche Wirksamkeit der Zwangsmassnahmen
 
-Der an dieser Stelle oft gehörte Einwand, dass die Sterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es, wenn überhaupt, nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
+Der an dieser Stelle oft gehörte Einwand, dass die Sterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es, wenn überhaupt, nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt). Ein weiteres gutes Beispiel ist ein [Vergleich der COVID-19 Toten in Deutschland und in Schweden](https://youtu.be/xcjMUVrsBVg?t=3697).
 
 Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch keinen Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
 
