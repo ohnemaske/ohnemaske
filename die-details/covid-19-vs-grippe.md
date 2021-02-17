@@ -21,7 +21,7 @@ Die Schweiz ist in dieser Hinsicht kein Einzelfall, wie z.B. [die Zahlen des CDC
 
 ### Fragliche Wirksamkeit der Zwangsmassnahmen
 
-Der an dieser Stelle oft gehörte Einwand, dass die Sterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
+Der an dieser Stelle oft gehörte Einwand, dass die Sterblichkeit nur wegen den Massnahmen nicht höher sei, hält einer genaueren Überprüfung nicht stand. Wenn man verschiedene Länder miteinander vergleicht, gibt es, wenn überhaupt, nur einen schwachen Zusammenhang \(Korrelation\) zwischen der Schärfe der verfügten Zwangsmassnahmen und der jeweiligen Sterblichkeit \(und meistens auch der Fallzahlen\). Ein gutes Beispiel dafür ist die [Maskenpflicht](wirksamkeit-von-masken.md#12-kurven-die-zeigen-dass-die-maskenpflicht-covid-nicht-aufhaelt).
 
 Selbst unter der Annahme, dass eine starke Korrelation existiert, stellt dies noch keinen Beweis für die Wirksamkeit der Massnahmen dar, denn [Korrelation ist nicht gleich Kausalität](https://wissenschafts-thurm.de/grundlagen-der-statistik-korrelation-ist-nicht-kausalitaet/). Für einen Beweis ist zusätzliche Evidenz notwendig.
 
@@ -39,7 +39,7 @@ Die vergleichsweise hohe Zahl an Todesfällen im Frühjahr 2015 [schreibt das BF
 
 ![](../.gitbook/assets/2020%20%281%29.png)
 
-Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, daher erscheint die Sterblichkeit von 2020 rein optisch viel höher als diejenige von 2015. [Zahlenmässig liegt die Sterblichkeit in 2020 nur 6% über der von 2015](covid-19-vs-grippe.md#sterblichkeit-in-2020-nur-5-hoeher-als-in-2015).
+Man beachte, dass diese Grafik im Vergleich zu 2015 eine gedehnte Y-Achse hat, daher erscheint die Sterblichkeit von 2020 rein optisch viel höher als diejenige von 2015. [Zahlenmässig liegt die Sterblichkeit in 2020 nur 6% über der von 2015](covid-19-vs-grippe.md#sterblichkeit-in-2020-nur-6-hoeher-als-in-2015).
 
 ## Die Spitäler sind nicht überlastet
 
